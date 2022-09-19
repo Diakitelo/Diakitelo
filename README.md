@@ -1,4 +1,7 @@
-<a href="https://app.daily.dev/diakitelo"><img src="https://api.daily.dev/devcards/5fb41df990054f1c81d4d01be1fd2491.png?r=o5e" width="400" alt="Diakite Mohamed's Dev Card"/></a>
+![](https://github-readme-stats.vercel.app/api?username=Diakitelo&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diakitelo&layout=compact)
+
 <!--
 **Diakitelo/Diakitelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
