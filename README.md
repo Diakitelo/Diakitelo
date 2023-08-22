@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/diakitelo" target="blank"><img src="https://img.shields.io/twitter/follow/diakitelo?logo=twitter&style=for-the-badge" alt="diakitelo" /></a> </p>
 
-- 🌱 I’m currently learning **Remix**
+- 🔭 I’m currently working on <a href="https://remixtemplates.com/" target="blank">remixtemplates.com</a> where I build  **Premium, Full-Stack & Production-ready Remix templates**
 
-- 💬 Ask me about **Javascript, Typescript, React (Nextjs, Remix)**
+- 💬 Ask me about **Javascript, Typescript, React (NextJs, Remix), NodeJs**
 
 - 📫 How to reach me **diakitemoha40@gmail.com**
 
