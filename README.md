@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed DIAKITE</h1>
-<h3 align="center">A passionate frontend developer from Côte d'Ivoire</h3>
+<h3 align="center">A passionate Software Engineer from Côte d'Ivoire</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diakitelo&label=Profile%20views&color=0e75b6&style=flat" alt="diakitelo" /> </p>
 
